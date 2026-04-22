@@ -2,6 +2,7 @@
 
 <img width="1471" height="1144" alt="Screenshot 2026-04-22 162238" src="https://github.com/user-attachments/assets/124e2fba-4f90-484f-95b3-07a76955adbf" />
 
+
 Machine Learning project that utilizes historical data to identify patterns and trends in house prices. 
 The aim is to assist Maple Valley Realty to develop an accurate Predictive Model to estimate house prices based on property features and market data.
 
